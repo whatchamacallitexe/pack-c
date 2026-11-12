@@ -1,2 +1,2 @@
-FILE eel-slap: https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js -> assets/cdn/b5b1f78c-jquery.min.js
-FILE hacker-typer: https://code.jquery.com/jquery-3.3.1.min.js -> assets/cdn/910f1cfd-jquery-3.3.1.min.js
+FAILED https://raw.githubusercontent.com/Piplup7575/factoryballz/b756c41c487dc6daa7b46cf4464e2c9c7e64b4d9/images/preloader.gif: curl: (22) The requested URL returned error: 404
+
